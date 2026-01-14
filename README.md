@@ -4,7 +4,7 @@ Cryptic is a cryptography project  that encrypts and decrypts your files of all 
 # Use 💻
 ## Installation
 ```bash
-git clone https://github.com/vishnu-git1524/Cryptic.git
+git clone https://github.com/saniya232004/cryptic
 cd Cryptic
 pip install -r requirements.txt
 ```
